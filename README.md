@@ -1,4 +1,4 @@
-### LOTR ASCII Adventure Game
+### LOTR ASCII Adventure Game with Java & GPT
 
 Welcome to the ASCII adventure game set in the world of Lord of the Rings! 🧝‍♂️🌋🗡️
 
